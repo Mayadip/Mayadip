@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Maya Biswas
-####  Building Skills in Data Analysis and Data Science
+# Hi there 👋, my name is Maya Biswas
+##  Building Skills in Data Analysis and Data Science
 
 
 I have completed both MS and BSc degrees in Statistics.  I'm passionate about data science and analysis, and I'm excited to leverage my statistical skills to explore this field. Open to collaborating on interesting data projects!
