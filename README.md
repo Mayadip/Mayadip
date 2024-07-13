@@ -4,7 +4,7 @@
 
 I have completed both MS and BSc degrees in Statistics.  I'm passionate about data science and analysis, and I'm excited to leverage my statistical skills to explore this field. Open to collaborating on interesting data projects!
 
-Skills: Python / SQL / Power BI / R / SPSS / SAS
+Skills: Python / SQL / Power BI / Excel/ R / SPSS / SAS
 
 - 🌱 I’m currently learning Advance Data Analysis  
 - 😄 Pronouns: She 
